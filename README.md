@@ -1,3 +1,15 @@
+# Personal Experience
+
+In Ubuntu 16.04:
+- it works with version 1.7
+
+In Ubuntu 20.04
+- it works with version 3.0 
+- it does not work in latest version (April 20, 2022) - v3.5
+- it works great with CUDA 11.4, openCV 4.5.2, CUDNN 8.2.2
+- it works with problems with CUDA 11.2, openCV 4.5.2, CUDNN 8.1
+
+
 # Pupil
 <a
 href="https://pupil-labs.com"
